@@ -15,7 +15,7 @@
 
 .home{
     background-image: url('../assets/images/home.png');
-    position: absolute;
+    position: relative;
    height: 800px;
    width: 100%;
    background-size: cover;
@@ -23,13 +23,22 @@
    background-position: center center;
 }
 
+.about{
+    /* background-image: url('../assets/images/home.png'); */
+    position: relative;
+   height: 1500px;
+   width: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+}
 
-.icon-bar {
-    width: 90px;
-    background-color: #555;
-  }
-  
-  
-#iconss{
-    position: fixed;
+.project{
+    background-image: url('../assets/images/home.png');
+    position: relative;
+   height: 800px;
+   width: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
 }

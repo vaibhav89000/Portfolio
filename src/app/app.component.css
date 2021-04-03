@@ -34,9 +34,9 @@
 }
 
 .experience{
-    background-image: url('../assets/images/home.png');
+    /* background-image: url('../assets/images/about.png'); */
     position: relative;
-   height: 800px;
+   height: 400px;
    width: 100%;
    background-size: cover;
    background-repeat: no-repeat;

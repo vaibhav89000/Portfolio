@@ -52,3 +52,23 @@
    background-repeat: no-repeat;
    background-position: center center;
 }
+
+.project{
+    /* background-image: url('../assets/images/home.png'); */
+    position: relative;
+   height: 800px;
+   width: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+}
+
+.contact{
+    background-image: url('../assets/images/experience.jpg');
+    position: relative;
+   height: 600px;
+   width: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+}

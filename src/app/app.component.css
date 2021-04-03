@@ -1,96 +1,24 @@
 .navbar{
     width: 100% !important;
-    position: fixed;
+    position: absolute;
+    /* overflow: hidden; */
+    overflow: auto;
     z-index: 100000;
 }
 
 
 
-.monospace {
+/* .monospace {
     font-family: "Lucida Console", Courier, monospace;
   }
-  
+   */
 
 .home{
     background-image: url('../assets/images/home.png');
-    /* background-size: cover; */
-    /* position: relative; */
-    /* background-position: center center; */
-      
-   
-    /* min-height: 100%; */
+    position: absolute;
    height: 800px;
+   width: 100%;
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center center;
 }
-
-.about{
-    background-image: url('../assets/images/about.png');
-    /* background-size: cover; */
-    /* height: 100%;
-    width: 110%; */
-    /* position: relative; */
-
-    height: 800px;
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-position: center center;
-    
-}
-
-.project{
-    background-image: url('../assets/images/project.png');
-    /* background-size: cover; */
-    /* height: 1200px; */
-    /* height: 100%;
-    width: 110%; */
-    /* position: relative; */
-
-    height: 800px;
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-position: center center;
-}
-
-.resume{
-    background-image: url('../assets/images/resume.png');
-    /* background-size: cover; */
-    /* height: 100%;
-    width: 110%; */
-    /* position: relative; */
-
-    height: 800px;
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-position: center center;
-}
-
-.experience{
-    background-image: url('../assets/images/experience.jpg');
-    /* background-size: cover; */
-    /* height: 100%;
-    width: 110%; */
-    /* position: relative; */
-
-    height: 800px;
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-position: center center;
-    
-}
-
-.contact{
-    background-image: url('../assets/images/home.png');
-    /* background-size: cover; */
-    /* width: 110%;
-    height: 100%; */
-    /* position: relative; */
-
-    height: 800px;
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-position: center center;
-    
-}
-

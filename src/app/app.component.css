@@ -46,7 +46,7 @@
 .resume{
     /* background-image: url('../assets/images/home.png'); */
     position: relative;
-   height: 800px;
+   height: 1400px;
    width: 100%;
    background-size: cover;
    background-repeat: no-repeat;
@@ -54,9 +54,8 @@
 }
 
 .project{
-    /* background-image: url('../assets/images/home.png'); */
     position: relative;
-   height: 800px;
+   height: 1100px;
    width: 100%;
    background-size: cover;
    background-repeat: no-repeat;

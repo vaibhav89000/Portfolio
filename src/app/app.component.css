@@ -26,15 +26,25 @@
 .about{
     /* background-image: url('../assets/images/home.png'); */
     position: relative;
-   height: 1500px;
+   height: auto;
    width: 100%;
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center center;
 }
 
-.project{
+.experience{
     background-image: url('../assets/images/home.png');
+    position: relative;
+   height: 800px;
+   width: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+}
+
+.resume{
+    /* background-image: url('../assets/images/home.png'); */
     position: relative;
    height: 800px;
    width: 100%;

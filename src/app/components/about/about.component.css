@@ -20,3 +20,14 @@
   margin-right: auto;
   width: 50%;
 }
+
+.card{
+    height: 200px !important;
+}
+
+.education{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
